@@ -1,0 +1,16 @@
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+F:\Programming 1\Week11\GitHubVSConsoleApp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
